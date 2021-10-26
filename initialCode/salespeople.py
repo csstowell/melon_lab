@@ -7,7 +7,7 @@ class Salesperson():
         """Initialize salesperson attributes."""
 
         self.base_salary = base_salary
-        self.commission_rate = commission_rate
+        self.commission_rate = commission_ratex
 
     def calculate_monthly_pay(self, total_sales):
         """Calculate the person's monthly pay.
